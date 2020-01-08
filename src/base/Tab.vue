@@ -33,19 +33,25 @@
     width: 100%;
     height: 50px;
     display: flex;
+    background: aliceblue;
     a{
       display: flex;
-      color: coral;
+      color: black;
       flex-direction: column;
       flex: 1;
       align-items: center;
       justify-content: center;
     }
     a.router-link-active{
-      color: yellow;
+      color: forestgreen;
+      i{
+        font-size: 25px;
+        color: forestgreen;
+      }
     }
     i{
       font-size: 25px;
+      color: black;
     }
   }
 
