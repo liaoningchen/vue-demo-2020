@@ -1,0 +1,48 @@
+[
+  {
+    "bookCover": "https://img20.360buyimg.com/mobilecms/s316x316_jfs/t26623/338/419718625/245064/7ef5b21b/5b9106caNc9b79061.jpg!q70.dpg.webp",
+    "bookName":"2019年诺贝尔经济学奖",
+    "bookInfo": "探究穷人为什么无法摆脱贫穷的颠覆之作",
+    "bookPrice": 78.5,
+    "bookId": 1
+  },
+  {
+    "bookCover": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t23191/84/2588279951/200826/3d12b2da/5b863aa7Nfb96ba8b.jpg!q80.dpg.webp",
+    "bookName":"深度思考",
+    "bookInfo": "探究穷人为什么无法摆脱贫穷的颠覆之作",
+    "bookPrice": 78.1,
+    "bookId": 2
+  }
+  ,{
+  "bookCover": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/90066/35/1419/423552/5dbfb250E0a9c9f1b/03d6a2d46243b89d.jpg!q80.dpg",
+  "bookName":"高情商聊天术",
+  "bookInfo": "探究穷人为什么无法摆脱贫穷的颠覆之作",
+  "bookPrice": 75.5,
+  "bookId": 3
+  },
+  {
+    "bookCover": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/84785/23/9934/128006/5e13d4ceE4826edfa/910ce51b3c3286b9.jpg!q80.dpg",
+    "bookName":"概率论与数学统计",
+    "bookInfo": "探究穷人为什么无法摆脱贫穷的颠覆之作",
+    "bookPrice": 71.5,
+    "bookId": 4
+  },{
+    "bookCover": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/86731/12/9750/138954/5e13d6eeEe4d11d01/6145dd07a2876f1e.jpg!q80.dpg",
+    "bookName":"朗读者",
+    "bookInfo": "探究穷人为什么无法摆脱贫穷的颠覆之作",
+    "bookPrice": 77.5,
+    "bookId": 5
+  },{
+    "bookCover": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/106123/18/9797/192773/5e13d4efEc33d0ab9/4076717d2548d431.jpg!q80.dpg",
+    "bookName":"岛上书店",
+    "bookInfo": "探究穷人为什么无法摆脱贫穷的颠覆之作",
+    "bookPrice": 88.5,
+    "bookId": 6
+  },{
+    "bookCover": "https://img20.360buyimg.com/mobilecms/s316x316_jfs/t26623/338/419718625/245064/7ef5b21b/5b9106caNc9b79061.jpg!q70.dpg.webp",
+    "bookName":"贫穷的本质",
+    "bookInfo": "探究穷人为什么无法摆脱贫穷的颠覆之作",
+    "bookPrice": 7.5,
+    "bookId": 7
+  }
+]
